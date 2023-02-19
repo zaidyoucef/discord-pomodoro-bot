@@ -7,8 +7,8 @@ from discord.ext import commands
 from dataclasses import dataclass
 import discord
 
-bot_token = "MTA3Njg5NjI4NDcyNTc1NTkxNA.GgcH6l.BTkaeBIep30tonUKvSpBFKO1mTTnPtP2zt5ddY"
-channel_id = 1076901441152757771
+bot_token = "BOT_TOKEN"
+channel_id = CHENNEL_ID
 
 
 @dataclass
